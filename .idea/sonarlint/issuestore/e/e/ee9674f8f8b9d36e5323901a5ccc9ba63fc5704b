@@ -1,21 +1,21 @@
 
 l
-java:S1192"JDefine a constant instead of duplicating this literal "Precio: $" 3 times.(ÒÔòÂşÿÿÿÿ8ÛŠ‹ƒæ1
+java:S1192"JDefine a constant instead of duplicating this literal "Precio: $" 3 times.(ÒÔòÂşÿÿÿÿ8Ù’„–î1
 f
-java:S1192"IDefine a constant instead of duplicating this literal "Modelo: " 3 times.(ààÿÎ8ÜŠ‹ƒæ1
-0
-java:S1220""Move this file to a named package.
-G	java:S106"+Replace this use of System.out by a logger.(ôéğ×8èŠ‹ƒæ1
-G	java:S106"+Replace this use of System.out by a logger.(ààÿÎ8èŠ‹ƒæ1
-L	java:S106"+Replace this use of System.out by a logger.(ÒÔòÂşÿÿÿÿ8éŠ‹ƒæ1
-G	java:S106"+Replace this use of System.out by a logger.(ÅÓûõ8êŠ‹ƒæ1
-G	java:S106"+Replace this use of System.out by a logger.(Ä²‰×8ëŠ‹ƒæ1
+java:S1192"IDefine a constant instead of duplicating this literal "Modelo: " 3 times.(ààÿÎ8Ú’„–î1
+7
+java:S1220""Move this file to a named package.8Ú’„–î1
+G	java:S106"+Replace this use of System.out by a logger.(ôéğ×8à’„–î1
+G	java:S106"+Replace this use of System.out by a logger.(ààÿÎ8â’„–î1
+L	java:S106"+Replace this use of System.out by a logger.(ÒÔòÂşÿÿÿÿ8â’„–î1
+G	java:S106"+Replace this use of System.out by a logger.(ÅÓûõ8â’„–î1
+G	java:S106"+Replace this use of System.out by a logger.(Ä²‰×8â’„–î1
 F	java:S106"+Replace this use of System.out by a logger.(àï
-8ìŠ‹ƒæ1
-L	java:S106$"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8íŠ‹ƒæ1
-L	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8íŠ‹ƒæ1
-G	java:S106("+Replace this use of System.out by a logger.(éû€Ò8îŠ‹ƒæ1
-G	java:S106*"+Replace this use of System.out by a logger.(ÇÓıØ8ïŠ‹ƒæ1
-L	java:S106+"+Replace this use of System.out by a logger.(Õ¶·Ëûÿÿÿÿ8ğŠ‹ƒæ1
-G	java:S106,"+Replace this use of System.out by a logger.(ŞèÖİ8ğŠ‹ƒæ1
-L	java:S106-"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ñŠ‹ƒæ1
+8â’„–î1
+L	java:S106$"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ä’„–î1
+L	java:S106%"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ä’„–î1
+G	java:S106("+Replace this use of System.out by a logger.(éû€Ò8å’„–î1
+G	java:S106*"+Replace this use of System.out by a logger.(ÇÓıØ8å’„–î1
+L	java:S106+"+Replace this use of System.out by a logger.(Õ¶·Ëûÿÿÿÿ8å’„–î1
+G	java:S106,"+Replace this use of System.out by a logger.(ŞèÖİ8æ’„–î1
+L	java:S106-"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8æ’„–î1
